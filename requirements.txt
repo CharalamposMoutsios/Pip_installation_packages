@@ -1,0 +1,10 @@
+    # NumPy - for scientific computing with Python.
+    # Pandas - for data manipulation and analysis.
+    # Matplotlib - for creating static, animated, and interactive visualizations in Python.
+     SciPy - for scientific and technical computing.
+    # Scikit-learn - for machine learning in Python.
+    # TensorFlow - for building and training machine learning models.
+    # Pygame - for developing games in Python.
+    # Django - for building web applications in Python.
+    # Flask - for building web applications in Python.
+    # BeautifulSoup - for web scraping in Python.
