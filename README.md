@@ -20,3 +20,7 @@ Conclusion
 This project provides a simple way to automate the process of creating a virtual environment and installing packages using pip. By using virtual environments, you can isolate your project's dependencies and manage them separately from other Python projects on your system.
 
 If you have any questions or feedback, please feel free to reach out!
+
+Below you see a sample screenshot of how it works.
+
+![Alt text](screenshot.png)
