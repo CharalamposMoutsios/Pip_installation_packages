@@ -26,5 +26,4 @@ installing the package using Pip.
 To exit from the env environment, run > Deactivate
 its a fun small project, enjoy :)
 
-
-![Alt text](Screenshot.png)
+![Screenshot](screenshot.png)
