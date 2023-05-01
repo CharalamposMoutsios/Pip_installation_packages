@@ -21,6 +21,10 @@ This project provides a simple way to automate the process of creating a virtual
 
 If you have any questions or feedback, please feel free to reach out!
 
-Below you see a sample screenshot of how it works.
+Below you see a sample screenshot of how it actually working, i am trying to run the script.py and as see , it first creates a env environment and then check the requirements.txt file which i have written the package module with name : Flask (for building web applications in Python) and then it starts
+installing the package using Pip.
+To exit from the env environment, run > Deactivate
+its a fun small project, enjoy :)
+
 
 ![Alt text](screenshot.png)

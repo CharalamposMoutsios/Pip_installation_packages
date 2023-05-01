@@ -1,5 +1,1 @@
-NumPy
-scikit
-SciPy
-Pygame
-Django
+Flask
