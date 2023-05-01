@@ -27,4 +27,4 @@ To exit from the env environment, run > Deactivate
 its a fun small project, enjoy :)
 
 
-![Alt text](screenshot.png)
+![Alt text](Screenshot.png)
